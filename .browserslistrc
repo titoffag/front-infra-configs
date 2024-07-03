@@ -1,0 +1,16 @@
+# Browserslist config
+
+# Browsers with more than 1% market share globally
+> 1%
+
+# Last 2 versions of each browser
+last 2 versions
+
+# Browsers released in the last 2 years
+last 2 years
+
+# Include IE 11 for compatibility
+ie 11
+
+# Exclude dead browsers (browsers that are no longer maintained)
+not dead
